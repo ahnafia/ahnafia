@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Ahnaf
 
-🎓 I'm a Computer Science student at **Penn State University**, passionate about systems programming, machine learning, and building high-performance tools that solve real-world problems.
+🎓 I'm a Computer Science student at **Penn State University**, passionate about application development, machine learning, and building high-performance tools that solve real-world problems.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🎯 Building multithreaded C++ tools for data processing and finance
-- 🤖 Training PyTorch models for gesture recognition and real-time interaction
-
+- 🎯 Building a course finder website for PSU students to figure out what they want to take
+- 🤖 Teaching myself Pytorch!
 ---
 
 ## 🛠 Tech Stack
