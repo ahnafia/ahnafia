@@ -6,7 +6,7 @@
 
 ## 🚀 What I'm Working On
 
-- 🎯 Building a course finder website for PSU students to figure out what they want to take
+- 🎯 Building an automatic resume tailorer so you don't have to tailor your resume for every job!
 - 🤖 Teaching myself Pytorch!
 ---
 
