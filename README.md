@@ -68,4 +68,3 @@ Improved data throughput 150%, cut latency from 200ms → 80ms via Python REST A
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ahnaf-iftikhar-317175315/)
 - 📧 ahnaf52006@gmail.com
-- 📞 814-280-6937
